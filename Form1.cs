@@ -122,8 +122,13 @@ namespace PictureViewer
             //in master
             // in branch 2, no problem
             //in master woo hooo!
+<<<<<<< HEAD
             //nothing let me pull request until i synced
             //
+=======
+            // nothing let me pull request until i synced
+            // I am going to change this line
+>>>>>>> refs/remotes/origin/master
         }
     }
 }
