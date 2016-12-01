@@ -89,8 +89,17 @@ namespace PictureViewer
 
             //clear
             //webscrape tutorial Branch (current default)
+<<<<<<< HEAD
+            
+=======
             //clear
             //Github practice Branch
+>>>>>>> refs/remotes/origin/git-hub-practice-1
+
+            //no clear
+            //Master trunk
+            //No Clear No Header
+            //Webscrape Tutorial Branch (Default)
         }
     }
 }
