@@ -91,6 +91,10 @@ namespace PictureViewer
 =======
                 // Branch 1
 >>>>>>> refs/remotes/origin/11-30--C#-Webscrape-Tutorial-1
+
+            //so everything above was from the conflict. 
+            //I wonder if hte lines ===== are because they changed 
+            //the same line.
         }
     }
 }
