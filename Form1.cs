@@ -129,6 +129,11 @@ namespace PictureViewer
             // nothing let me pull request until i synced
             // I am going to change this line
 >>>>>>> refs/remotes/origin/master
+
+// branch 2 
+// change this line
+
+
         }
     }
 }
