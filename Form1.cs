@@ -86,7 +86,11 @@ namespace PictureViewer
                 pictureBox1.SizeMode = PictureBoxSizeMode.StretchImage;
             else
                 pictureBox1.SizeMode = PictureBoxSizeMode.Normal;
+<<<<<<< HEAD
                 //this is a comment to test what github does now that I make a change in a checking again
+=======
+                // Branch 1
+>>>>>>> refs/remotes/origin/11-30--C#-Webscrape-Tutorial-1
         }
     }
 }
