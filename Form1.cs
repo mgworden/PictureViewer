@@ -87,52 +87,6 @@ namespace PictureViewer
             else
                 pictureBox1.SizeMode = PictureBoxSizeMode.Normal;
 
-            //clear
-            //webscrape tutorial Branch (current default)
-<<<<<<< HEAD
-            
-=======
-            //clear
-            //Github practice Branch
->>>>>>> refs/remotes/origin/git-hub-practice-1
-
-            //no clear
-            //Master trunk
-            //No Clear No Header
-            //Webscrape Tutorial Branch (Default)
-            //No Clear No Header 
-            //Github practise Branch
-            //No Clear No Header
-            //Master
-            //NCNH
-            // Webscraper Branch 1
-            //NCNH
-            // Github Tutorial Branch 2
-            //NCNH
-            //Branch 1 (default)
-            // Cant pull from default, but when you change it the others see it.
-            //Master
-            //Lets change default again and see if I can pull to other branches
-            //branch 1 default
-            //now it is letting me pull to other branches
-            // in master not letting me pull to default branch 1// I synced, now it seems to let me pull
-            //master
-            //now i am going to see is it lets me pull after making this change
-            //in default branch1 now it is letting me pull to master
-            //in master
-            // in branch 2, no problem
-            //in master woo hooo!
-//<<<<<<< HEAD
-            //nothing let me pull request until i synced
-            //
-//=======
-            // nothing let me pull request until i synced
-            // I am going to change this line
-//>>>>>>> refs/remotes/origin/master
-
-// branch 2 
-// change this line. 4x changed it
-
 
         }
     }
