@@ -121,6 +121,8 @@ namespace PictureViewer
             //in default branch1 now it is letting me pull to master
             //in master
             // in branch 2, no problem
+            //in master woo hooo!
+            // nothing let me pull request until i synced
         }
     }
 }
