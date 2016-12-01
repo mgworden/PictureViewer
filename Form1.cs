@@ -95,6 +95,9 @@ namespace PictureViewer
             //clear
             //Github practice Branch
 >>>>>>> refs/remotes/origin/git-hub-practice-1
+
+            //no clear
+            //Master trunk
         }
     }
 }
