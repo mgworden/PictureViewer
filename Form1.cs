@@ -87,6 +87,7 @@ namespace PictureViewer
             else
                 pictureBox1.SizeMode = PictureBoxSizeMode.Normal;
 <<<<<<< HEAD
+<<<<<<< HEAD
                 //this is a comment to test what github does now that I make a change in a checking again
 =======
                 // Branch 1
@@ -95,6 +96,12 @@ namespace PictureViewer
             //so everything above was from the conflict. 
             //I wonder if hte lines ===== are because they changed 
             //the same line.
+=======
+                // Branch 1
+=======
+                //this is a comment to test what github does now that I make a change in a checking again
+>>>>>>> refs/remotes/origin/master
+>>>>>>> refs/remotes/origin/11-30--C#-Webscrape-Tutorial-1
         }
     }
 }
