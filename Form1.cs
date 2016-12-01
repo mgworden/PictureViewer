@@ -116,6 +116,7 @@ namespace PictureViewer
             //branch 1 default
             //now it is letting me pull to other branches
             // in master not letting me pull to default branch 1// I synced, now it seems to let me pull
+            //master
 
         }
     }
