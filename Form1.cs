@@ -120,6 +120,7 @@ namespace PictureViewer
             //now i am going to see is it lets me pull after making this change
             //in default branch1 now it is letting me pull to master
             //in master
+            // in branch 2, no problem
         }
     }
 }
