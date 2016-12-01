@@ -122,6 +122,7 @@ namespace PictureViewer
             //in master
             // in branch 2, no problem
             //in master woo hooo!
+            // nothing let me pull request until i synced
         }
     }
 }
