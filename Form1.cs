@@ -108,7 +108,18 @@ namespace PictureViewer
             // Webscraper Branch 1
             //NCNH
             // Github Tutorial Branch 2
-
+            //NCNH
+            //Branch 1 (default)
+            // Cant pull from default, but when you change it the others see it.
+            //Master
+            //Lets change default again and see if I can pull to other branches
+            //branch 1 default
+            //now it is letting me pull to other branches
+            // in master not letting me pull to default branch 1// I synced, now it seems to let me pull
+            //master
+            //now i am going to see is it lets me pull after making this change
+            //in default branch1 now it is letting me pull to master
+            //in master
         }
     }
 }
