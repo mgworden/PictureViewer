@@ -88,6 +88,7 @@ namespace PictureViewer
                 pictureBox1.SizeMode = PictureBoxSizeMode.Normal;
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
                 //this is a comment to test what github does now that I make a change in a checking again
 =======
                 // Branch 1
@@ -101,6 +102,11 @@ namespace PictureViewer
 =======
                 //this is a comment to test what github does now that I make a change in a checking again
 >>>>>>> refs/remotes/origin/master
+>>>>>>> refs/remotes/origin/11-30--C#-Webscrape-Tutorial-1
+=======
+
+            //clear
+            //webscrape tutorial Branch (current default)
 >>>>>>> refs/remotes/origin/11-30--C#-Webscrape-Tutorial-1
         }
     }
