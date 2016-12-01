@@ -109,8 +109,9 @@ namespace PictureViewer
             //NCNH
             // Github Tutorial Branch 2
             //NCNH
-            //Branch 1
-
+            //Branch 1 (default)
+            // Cant pull from default, but when you change it the others see it.
+            //Master
         }
     }
 }
