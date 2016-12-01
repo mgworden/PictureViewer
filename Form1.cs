@@ -131,7 +131,7 @@ namespace PictureViewer
 >>>>>>> refs/remotes/origin/master
 
 // branch 2 
-// change this line. changed it
+// change this line. 2x changed it
 
 
         }
