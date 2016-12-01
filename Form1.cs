@@ -118,6 +118,7 @@ namespace PictureViewer
             // in master not letting me pull to default branch 1// I synced, now it seems to let me pull
             //master
             //now i am going to see is it lets me pull after making this change
+            //in default branch1 now it is letting me pull to master
 
         }
     }
