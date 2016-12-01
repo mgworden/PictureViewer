@@ -89,8 +89,7 @@ namespace PictureViewer
 
             //clear
             //webscrape tutorial Branch (current default)
-            //clear
-            //Github practice
+            
         }
     }
 }
