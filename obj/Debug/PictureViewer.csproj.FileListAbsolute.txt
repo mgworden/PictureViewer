@@ -1,0 +1,16 @@
+C:\Visual Studio Solutions\PictureViewer\PictureViewer\bin\Debug\PictureViewer.exe.config
+C:\Visual Studio Solutions\PictureViewer\PictureViewer\bin\Debug\PictureViewer.exe
+C:\Visual Studio Solutions\PictureViewer\PictureViewer\bin\Debug\PictureViewer.pdb
+C:\Visual Studio Solutions\PictureViewer\PictureViewer\obj\Debug\PictureViewer.csprojResolveAssemblyReference.cache
+C:\Visual Studio Solutions\PictureViewer\PictureViewer\obj\Debug\PictureViewer.Properties.Resources.resources
+C:\Visual Studio Solutions\PictureViewer\PictureViewer\obj\Debug\PictureViewer.csproj.GenerateResource.Cache
+C:\Visual Studio Solutions\PictureViewer\PictureViewer\obj\Debug\PictureViewer.exe
+C:\Visual Studio Solutions\PictureViewer\PictureViewer\obj\Debug\PictureViewer.pdb
+C:\Visual Studio Solutions\PictureViewer\PictureViewer\obj\Debug\PictureViewer.Form1.resources
+C:\Visual Studio Solutions\PictureViewer\PictureViewer\bin\Debug\FSharp.Core.dll
+C:\Visual Studio Solutions\PictureViewer\PictureViewer\bin\Debug\HtmlAgilityPack.dll
+C:\Visual Studio Solutions\PictureViewer\PictureViewer\bin\Debug\ScrapySharp.Core.dll
+C:\Visual Studio Solutions\PictureViewer\PictureViewer\bin\Debug\ScrapySharpAsync.dll
+C:\Visual Studio Solutions\PictureViewer\PictureViewer\bin\Debug\FSharp.Core.xml
+C:\Visual Studio Solutions\PictureViewer\PictureViewer\bin\Debug\HtmlAgilityPack.pdb
+C:\Visual Studio Solutions\PictureViewer\PictureViewer\bin\Debug\HtmlAgilityPack.xml
