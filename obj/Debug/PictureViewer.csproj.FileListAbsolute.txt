@@ -14,3 +14,5 @@ C:\Visual Studio Solutions\PictureViewer\PictureViewer\bin\Debug\ScrapySharpAsyn
 C:\Visual Studio Solutions\PictureViewer\PictureViewer\bin\Debug\FSharp.Core.xml
 C:\Visual Studio Solutions\PictureViewer\PictureViewer\bin\Debug\HtmlAgilityPack.pdb
 C:\Visual Studio Solutions\PictureViewer\PictureViewer\bin\Debug\HtmlAgilityPack.xml
+C:\Visual Studio Solutions\PictureViewer\PictureViewer\bin\Debug\PictureViewer.exe.CodeAnalysisLog.xml
+C:\Visual Studio Solutions\PictureViewer\PictureViewer\bin\Debug\PictureViewer.exe.lastcodeanalysissucceeded
