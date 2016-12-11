@@ -87,6 +87,7 @@ namespace PictureViewer
             else
                 pictureBox1.SizeMode = PictureBoxSizeMode.Normal;
 
+            // so seriously am i working in git hub now?
 
         }
     }
