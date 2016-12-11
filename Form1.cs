@@ -86,6 +86,8 @@ namespace PictureViewer
                 pictureBox1.SizeMode = PictureBoxSizeMode.StretchImage;
             else
                 pictureBox1.SizeMode = PictureBoxSizeMode.Normal;
+            
+            //am i in the right github branch
 
 
         }

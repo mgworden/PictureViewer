@@ -64,9 +64,7 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="..\..\..\Users\MGW\Dropbox\One Loan Place\Code\cs grap pic from internet.cs">
-      <SubType>Form</SubType>
-    </Compile>
+    <Compile Include="..\..\..\Users\MGW\Dropbox\One Loan Place\Code\cs grap pic from internet.cs" />
     <Compile Include="..\..\..\Users\MGW\Dropbox\One Loan Place\Code\cs grap pic from internet.Designer.cs">
       <DependentUpon>cs grap pic from internet.cs</DependentUpon>
     </Compile>
